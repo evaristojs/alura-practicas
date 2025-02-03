@@ -1,6 +1,2 @@
-let nota = 10;
-if (nota >= 10) {
-  console.log("Aprobado");
-} else {
-  console.log("Reprobado");
-}
+let numeroRandom = Math.floor(Math.random() * 100) + 1;
+console.log(numeroRandom);
