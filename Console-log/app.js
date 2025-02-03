@@ -1,6 +1,5 @@
-let numero = parseInt(prompt("Digite um número: "));
-if (numero < 0) {
-    console.log("Negativo");
-} else {        
-    console.log("Positivo");
-}  
+let numero = 1;
+while (numero <= 10) {
+    console.log(numero);
+    numero++;
+}
