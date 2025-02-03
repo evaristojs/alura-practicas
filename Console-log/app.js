@@ -1,5 +1,6 @@
-let numero = 1;
-while (numero <= 10) {
-    console.log(numero);
-    numero++;
+let nota = 10;
+if (nota >= 10) {
+  console.log("Aprobado");
+} else {
+  console.log("Reprobado");
 }
