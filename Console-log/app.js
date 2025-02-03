@@ -1,4 +1,6 @@
-let valor1 = 50;
-let valor2 = 20;
-let resultado = valor1 - valor2;
-console.log(resultado);
+let edad = parseInt(prompt("Ingrese su edad"));
+if (edad >= 18) {
+  console.log("Usted es mayor de edad");
+} else {                    // Si la condición es falsa
+  console.log("Usted es menor de edad");
+}
