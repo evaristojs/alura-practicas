@@ -1,2 +1,2 @@
 let nombre = 'Brave Mojito';
-console.log(`Bienvenidos a ONE Mr. ${nombre}`);
+alert(`Hola ${nombre}`);
