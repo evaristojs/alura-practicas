@@ -1,2 +1,4 @@
-let lenguajeDeProgramacion = prompt("¿Cuál es tu lenguaje de programación favorito?");
-console.log(`Tu lenguaje de programación favorito es: ${lenguajeDeProgramacion}`);
+let valor1 = 10;
+let valor2 = 20;
+let resultado = valor1 + valor2;
+console.log(resultado);
