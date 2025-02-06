@@ -13,3 +13,10 @@ function nombreCiudad() {
 function mensajeAlerta() {
     alert("Yo amo a JavaScript");
 };
+
+function suma() {
+    let num1 = parseInt(prompt("Ingrese un número"));
+    let num2 = parseInt(prompt("Ingrese otro número"));
+    let resultado = num1 + num2;
+    alert(`La suma de los números es ${resultado}`);
+}
